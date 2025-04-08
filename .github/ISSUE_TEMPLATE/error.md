@@ -1,5 +1,13 @@
 ---
 
-name: "😂 error Report"
+name: "error"
 
-about: "No se puede hacer nada "
+about: "Reportar un error para ayudarnos a mejorar el proyecto."
+
+title: "[BUG] - Descripción corta del error"
+
+labels: bug
+
+assignees: ""
+
+---
